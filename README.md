@@ -9,4 +9,4 @@ October sees the lowest revenue. Inventory analysis indicates stock will last 15
 Recommendations include optimizing inventory, investing in high-performing locations, and
 addressing seasonal sales fluctuations to enhance profitability and business growth.
 
-![image alt]
+![image alt](https://github.com/zulaiiiiikha/Power-Bi-Project/blob/b28b1de0036cb2701ced570c45bb2ba01af9b298/Screenshot%202025-07-27%20132649.png)
