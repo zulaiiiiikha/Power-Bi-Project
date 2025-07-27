@@ -137,3 +137,6 @@ Highest Profit-Generating Products:
 1. Expand investment in Downtown stores to capitalize on high profitability.
 2. Investigate low sales in January and February to identify and mitigate potential market challenges.
 3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal stock levels.
+
+## References
+[Maven Toys Store Dataset](https://docs.google.com/spreadsheets/d/1GHRe0HFl8ZY0bghU87J6UYAFAQn_LLob/edit?usp=drive_web&ouid=116393543067864627875&rtpof=true)
