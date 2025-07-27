@@ -89,5 +89,51 @@ Highest Profit-Generating Products:
 
 ![image alt](https://github.com/zulaiiiiikha/Power-Bi-Project/blob/65b794243d3d989a07d75eab1c91883553555410/Screenshot%202025-07-27%20132817.png)
 
+**Notably, Playdoh Can ranks high in sales volume but not in profitability.**
 
+### Store & Location Analysis
+1. Which locations generate the highest profits?
+- Downtown stores lead with over $2M in profits.
+- Airport stores yield the lowest profit at $378K.
+### Most Profitable Stores:
+- Maven Toys Ciudad de Mexico 2 - $170K
+- Maven Toys Guadalajara 3 - $121K
+- Maven Toys Ciudad de Mexico 1 - $111K
+- Maven Toys Monterrey 2 - $107K
+- Maven Toys Toluca - $105K
+### Least Profitable Stores:
+- Maven Toys Cuernavaca 1 - $57K
+- Maven Toys La Paz 1 - $57K
 
+## Seasonal Trends & Patterns
+1. **Peak Sales & Profits:** March–July
+- Highest Sales: April (112K units)
+- Highest Profit: March ($406K)
+2. **Lowest Sales & Profits:** October
+- Sales: 48K units
+- Profit: $179K
+3. **Quarterly Trends:**
+- Q2 (April–June): Highest sales
+- Q4 (October–December): Lowest sales
+3. **Yearly Trends:**
+- 2017: Sales peaked towards year-end.
+- 2018: Stronger sales from February–July, with March leading
+
+### Inventory Analysis
+**Current Inventory Value & Turnover:**
+- Total Inventory Value: $300K
+- Total Stock: 29,742 units
+- Average Daily Sales: 1,709 units
+- Estimated Inventory Duration: 15-17 days before restocking is required.
+
+## Summary & Recommendations
+**Summary of Key Findings:**
+1. Downtown stores are the most profitable.
+2. Toys lead in profitability, followed by Electronics.
+3. Sales dip in January, February, and October.
+4. Electronics excel in Airport and Commercial locations, while Toys dominate Downtown and Residential areas.
+
+## Strategic Recommendations:
+1. Expand investment in Downtown stores to capitalize on high profitability.
+2. Investigate low sales in January and February to identify and mitigate potential market challenges.
+3. Enhance inventory management to avoid stock shortages or excesses, ensuring optimal stock levels.
