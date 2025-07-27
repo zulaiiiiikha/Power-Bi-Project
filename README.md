@@ -11,6 +11,17 @@ addressing seasonal sales fluctuations to enhance profitability and business gro
 
 ![image alt](https://github.com/zulaiiiiikha/Power-Bi-Project/blob/b28b1de0036cb2701ced570c45bb2ba01af9b298/Screenshot%202025-07-27%20132649.png)
 
+## Table of Content
+- [Project Overview](#project-overview).
+- [objectivel(#objectives)
+- [Key Business Questions](#key-business-questions).
+- [Tools and Methodologies](#tools-and-methodologies)
+- [Data Processing_](#data-processing).
+- [Data Modeling] (#data-modeling)
+- [Key_ Insights](#key-insights)
+- [Summary & Recommendations](#summary-&-recommendations).
+- [References ](#references).
+
 ## Objectives of the Analysis
 The primary goal of this analysis is to generate actionable insights into Maven Toy Store's overall sales
 performance and profitability by evaluating:
