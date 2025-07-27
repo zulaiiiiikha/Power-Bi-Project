@@ -13,11 +13,11 @@ addressing seasonal sales fluctuations to enhance profitability and business gro
 
 ## Table of Content
 - [Project Overview](#project-overview).
-- [objectivel(#objectives)
+- [Objective](#objectives)
 - [Key Business Questions](#key-business-questions).
 - [Tools and Methodologies](#tools-and-methodologies)
 - [Data Processing_](#data-processing).
-- [Data Modeling] (#data-modeling)
+- [Data Modeling](#data-modeling)
 - [Key_ Insights](#key-insights)
 - [Summary & Recommendations](#summary-&-recommendations).
 - [References ](#references).
